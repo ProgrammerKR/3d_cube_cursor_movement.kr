@@ -11,7 +11,7 @@ This repository contains a responsive and stylish cursor movement effect built w
 
 ## Preview
 
-![Preview Image](preview.jpg)
+![Preview Image](preview.png)
 
 ## Usage
 
